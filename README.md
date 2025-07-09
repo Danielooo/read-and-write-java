@@ -115,5 +115,5 @@ Regels: 5
 - Denk na over edge cases (lege bestanden, speciale tekens)
 - Documenteer je code met comments
 - Deel je oplossingen en help elkaar!
-- Gebruik `System.out.println()` voor duidelijke output
-- Test met verschillende bestandsgroottes# read-and-write-java
+- Gebruik `System.out.println()` om je output the checken
+
