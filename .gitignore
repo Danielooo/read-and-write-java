@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+# macOS
+.DS_Store
+# Java
+target/
+bin/
+*.class
+# Logs
+*.log
+# Others
+*.swp

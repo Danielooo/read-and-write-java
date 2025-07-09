@@ -7,10 +7,10 @@ public class BaseWriter {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
         
-        FileWriter writer = new FileWriter("uitvoer.txt");
+        FileWriter writer = new FileWriter("uitvoer.txt", true);
         writer.write(input + "\n");
+
         writer.close();
-        
         scanner.close();
     }
 } 
